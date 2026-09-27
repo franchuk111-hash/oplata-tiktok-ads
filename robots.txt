@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yak-oplatyty-tiktok-ads-z-ukrainy.pages.dev/sitemap.xml
